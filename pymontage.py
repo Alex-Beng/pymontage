@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # pymontage - generate image montages
 # Copyright (C) 2016 Benjamin Abendroth
